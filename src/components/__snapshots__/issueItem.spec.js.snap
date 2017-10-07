@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`issue item should render correctly 1`] = `
+<li
+  className="issue-item"
+>
+  <div
+    className="header"
+  >
+    <a
+      className="link title"
+      href="#/issues/111"
+    >
+      unit test
+    </a>
+    <span
+      className="tag-0"
+    >
+      CLA Signed
+    </span>
+  </div>
+  <div
+    className="content"
+  >
+    <div>
+      #
+      1
+    </div>
+    <img
+      className="avatar"
+      src="https://avatars3.githubusercontent.com/u/1?v=4"
+    />
+    <div>
+      <a
+        className="link"
+        href="#/users/1"
+      >
+        bochen
+      </a>
+      opened 
+      14 minutes ago
+    </div>
+  </div>
+</li>
+`;
